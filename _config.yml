@@ -1,6 +1,6 @@
 site: Dustin Pearson
 title: Dustin Pearson
-baseurl: "https://strikhar.github.io/dustinkpearson/"
+baseurl: ""
 
 collections:
   pages:
