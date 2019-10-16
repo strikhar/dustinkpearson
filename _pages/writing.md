@@ -1,6 +1,8 @@
 ---
+title: Writing
+subtitle: Your message was sent successfully.
+description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
-title: "Writing"
 ---
 
 “The Flame in Mother’s Mouth” - Visible Poetry Project

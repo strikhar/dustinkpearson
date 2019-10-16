@@ -1,6 +1,7 @@
 site: Dustin Pearson
-title: Dustin Pearson
-baseurl: ""
+
+url: https://strikhar.github.io
+baseurl: /dustinkpearson
 
 collections:
   pages:
@@ -53,11 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-
-gallery_types:
-  carousel: Carousel
-  grid: Grid
-grid_columns:
-  two: Two
-  three: Three
-  four: Four

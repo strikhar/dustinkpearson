@@ -5,95 +5,30 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/millennial-roost.jpg'
 ---
 
-![](/images/millennial-roost)
+![](/images/millennial-roost-small.jpg)
 
-## Demo content
+## About the book
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+What does survival mean? In Millennial Roost, life after trauma is explored though a mixture of poems and letters addressed to a mysterious Mr. Hen. Through this epistolary form Dustin Pearson challenges the tensions between confession and artifice, and frankness and obfuscation, as well as the terrible weight of secrets. These are poems that question everything, marking a search for identity in the face of the past with close examinations of sexuality, gender, metamorphosis and honesty, as well as the capability of poetry to express this fractured odyssey. Precisely observed, funny and multi-faceted, this is an eagerly-awaited debut collection.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Order here: https://www.crpress.org/shop/millennial-roost/
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+____________________________________________________________________________
 
-You can create lists:
+Dustin Pearson’s debut collection, Millennial Roost, is exemplary of lyric alchemy at its most powerful. In Pearson’s hands, the stunning story of a young man’s fateful encounter with someone he dubs both “chicken and monster,” who threatens his very being, is transformed into parable by his capacity to name his enemy. “I think I’ll call him Mr. Hen,” he says simply, casting cowardice as the evil heart of predation. His ability, as it turns out, is the ancient power of the poet-shaman. In Millennial Roost, Pearson alchemizes the lead of trauma into the gold of song.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+Cynthia Hogue, author of In June the Labyrinth
 
-And:
+The poems in Millennial Roost are devastating. In a series of epistles, the speaker addresses Mr. Hen, an allegorical predator, in order to defy and mock and query and dismiss him. “I survive you,” the speaker says. This is a phenomenal debut.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+Jillian Weise, author of The Book of Goodbyes
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+Sometimes there is a bravery of lyric content and language in a first book that must be accompanied by brilliant states of mind and fierce imagination. Millennial Roost is best described in these terms. Though, of course, Pearson surprises us at most every turn with an element of happiness, clearly rooted in a vivid childhood. What a startling and original work Dustin Pearson has given us. This is a great book.                                                             
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+Norman Dubie, author of The Quotations of Bone
 
-The theme also supports markdown tables:
+___
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
+Humor and terror bind themselves to one another in this wonderfully odd debut by Dustin Pearson. As much as these poems are anxious and anguished—“Make them describe it end to end”—they are also tender and redemptive—“I’ve been waiting for you/and this closeness we wouldn’t abuse.”  But Millennial Roost is never apologetic in its truth-telling or its disappointment at a world that goes on once such awful truths are told. How do we live through (and live on!) after violation? Pearson’s surrealist vision is itself a metaphor for the lie that physical resilience saves us from mental anguish. This is a beautifully necessary book.
 
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Jericho Brown, author of The New Testament
