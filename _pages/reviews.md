@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: "Reviews"
+featured_image: '/images/dustin.jpg'
 ---
 
 [A Review of Dustin Pearson’s Millennial Roost](http://haydensferryreview.com/haydensferryreview/millennialroost)

@@ -2,6 +2,7 @@
 title: Writing
 description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
+featured_image: '/images/dustin.jpg'
 ---
 
 - “The Flame in Mother’s Mouth” -- Visible Poetry Project

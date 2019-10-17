@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: "Bio"
+featured_image: '/images/dustin.jpg'
 ---
 
 ![]({{site.baseurl}}/images/dustin.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: "Interviews"
+featured_image: '/images/dustin.jpg'
 ---
 
 [Interview with Dustin Pearson - Winter 2019](https://www.crpress.org/interview-with-dustin-pearson-winter-2019/)

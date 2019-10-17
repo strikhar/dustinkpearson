@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: "Events"
+featured_image: '/images/dustin.jpg'
 ---
 
 ~~AWP 2018 Readings - Tampa, FL.~~
