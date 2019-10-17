@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image:
-  logo_width: 200
+  logo_width: 100
 
 menu_settings:
   menu_items:
@@ -26,7 +26,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline:
+  footer_tagline: 
 
 grid_settings:
   overlay_opacity: 0.8
@@ -87,8 +87,8 @@ font_settings:
   bold_weight: 600
   site_title:
     small_size: 25
-    medium_size: 30
-    large_size: 35
+    medium_size: 20
+    large_size: 25
     weight: 700
     letter_spacing: -0.02
   menu:
@@ -160,11 +160,12 @@ font_settings:
     line_height: 1.6
   blockquote:
     small_size: 25
-    medium_size: 35
-    large_size: 45
+    medium_size: 25
+    large_size: 25
     weight: 300
     letter_spacing: -0.02
     line_height: 1.6
+
   buttons:
     weight: 600
     letter_spacing: 0
