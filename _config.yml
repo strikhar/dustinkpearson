@@ -1,7 +1,7 @@
 site: Dustin Pearson
 
-url: https://strikhar.github.io
-baseurl: /dustinkpearson
+url: http://dustinkpearson.com
+baseurl:
 
 collections:
   pages:
