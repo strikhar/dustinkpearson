@@ -4,6 +4,8 @@ title: "Interviews"
 featured_image: '/images/dustin.jpg'
 ---
 
+[An Interview With Dustin Pearson](https://www.poetrysocietysc.org/pearson-interview?fbclid=IwAR3peC8GyFr27Q5IJkaUp8_qnr04YJeN69zC6LAGy_9qe0IBJZvJ5brWIDQ)
+
 [Interview with Dustin Pearson - Winter 2019](https://www.crpress.org/interview-with-dustin-pearson-winter-2019/)
 
 [Wombwell Rainbow Interviews: Dustin Pearson](https://thewombwellrainbow.com/2019/01/18/wombwell-rainbow-interviews-dustin-pearson/)
