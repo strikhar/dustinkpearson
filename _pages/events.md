@@ -4,24 +4,26 @@ title: "Events"
 featured_image: '/images/dustin.jpg'
 ---
 
-~~AWP 2018 Readings - Tampa, FL.~~
+Cave Canem Fellows Reading. Cave Canem. Literary Arts. Portland, OR. 03-27-2019. 
 
-~~Cave Canem Fellows Reading: Wednesday, March 7, 7-9 pm @ The University of South Florida’s Traditions Hall~~
+C&R Reading Party. C&R Press. Rusty Nail Pizza & Pub. Portland, OR. 03-28-2019. 
 
-~~Eyewear Publishing AWP offsite reading: Thursday, March 8, @ 5:15 pm at Fodder & Shine~~
+The South Carolina Review Presents: A Reading with Clemson Graduates, Dustin Pearson & Becky Adnot-Haynes. The 12th Annual Clemson Literary Festival. Daniel Hall Class of ’41 Studio. Clemson, SC. 04-10-2019. 
 
-~~Muzzle / Vinyl Reading AWP offsite reading: Thursday, March 8 from 7-9 pm @ The Bricks~~
+English Writing Awards & The Southeast Review Spring Fundraiser. Florida State University. The Bark. Tallahassee, FL. 04-23-2019. 
 
-~~Eyewear Publishing, Blue River / Creighton University, and Gold Wake Press AWP offsite reading: Friday, March 9, from 4-6 pm on the rooftop deck at Fly Bar & Restaurant~~
+BONK! 126 featuring Margaret Rozga, Dustin Pearson, and Adam Gottlieb & OneLove. The Racine Public Library. The Branch. Racine, WI. 05-23-2019. 
 
-~~Millennial Roost Book Celebration: Saturday, March 24, 8:30-11:30 pm @ The Bark in Tallahassee FL.~~
+Sundown Poetry Series: Dustin Pearson. Spoleto. The Poetry Society of South Carolina. Dock Street Theatre. Charleston, SC. 05-31-2019. 
 
-~~The Jerome Stern Distinguished Writers Series: Ruth Baumann and Dustin Pearson, Tuesday, Junes 26th, 8pm @ The Bark in Tallahassee FL.~~
+Writers for Migrant Justice Reading & Fundraiser. Florida State University. The Bark. Tallahassee, FL. 09-04-2019. 
 
-~~Dustin Pearson and Mario Chard at Midtown Reader September 7th, 6pm.~~
+The Jerome Stern Distinguished Writers Series. Dustin Pearson & Aaron Rodriguez at The Bark. The Bark. Florida State University. Tallahassee, FL. 09-10-2019.
 
-~~New Works 2018 with Cave Canem, a reading on Friday, October 12, 2018, 5:00 pm at New York University’s Lillian Vernon House, New York City.~~
+Midtown Reader. Dustin Pearson with A Family Is a House. Midtown Reader. Tallahassee, FL. 10-30-2019. 
 
-~~LitQuake: Why We Choose Small Presses Panel and Reading with Sarah Rafael García, Julayne Lee, Aurielle Marie, and Norma Smith @ [Accion Latina](https://www.facebook.com/AccionLatina/?__xts__%5B0%5D=68.ARDHEdcd-ol5Lbz2uL4EIeffsHpdXy3mY7M5nGRc6uGdxyHFa-GwKioiRwqRioKkBxatlLKNQX2sDgTFP9IzN4oV8qP6lgAIoLeG-41Uk2-kvciomSbqYwGGwXIE4aw3lGryEWZWrM2Ne3Y9GyXhrOC7qpi9l0SxAbcZodyDqu2af9cxN2yj2fEJLbCfl3z049ZXPprxDwFQaQ&eid=ARA_J2TxTfW75ZYsiC4D-AiWAPO6xa4tdLBFQC7FfZTr3OWE1tjhJExnLaHvBg2ZfE2qUwLXG6t-psow) (2958 24th St, San Francisco, California 94110) from 8 to 9 pm on October 20th.~~
+The Poetry Society of South Carolina. Dustin Pearson with Curtis Derrick. The Olde Village Community Building. North Charleston, SC. 11-15-2019. 
 
-~~[My Favorite Books Poetry and Storytelling Open Mic Night with special guest Dustin Pearson](https://www.facebook.com/events/313425412791546/) @ My Favorite Books (1410 Market Street, Suite C-2, Tallahassee, Florida 32312) Tuesday, November 6, 2018 at 7 PM – 8:30 PM.~~
+Island Breeze. Open Mic feat. Dustin Pearson. Island Breeze Caribbean Restaurant and Entertainment. Charleston, SC. 11-23-2019. 
+
+The Watering Hole Winter Retreat. Hickory Knob State Park. McCormick, SC. 12-26-2019 - 12-30-2019.
