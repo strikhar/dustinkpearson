@@ -4,6 +4,8 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
+- "Autobiography" -- Ours Poetica 
+<iframe src="https://www.youtube.com/watch?v=Wyia4HHFC4c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ["My Brother's Two Screams", "Hell's Wide Net", "The World at its Beginning"](http://www.hobartpulp.com/web_features/three-poems-59508d75-403e-4ee2-9828-097ad2262d8a?fbclid=IwAR0GDof1i_FbV3u4W9rkc2I4q_tTZgwprpYTBmEuda9wGXZsUyILDegKfH4) -- Hobart
 
 ["Dustin Pearson on Jillian Weise's "Beautiful Freak Show""](https://poems.com/features/what-sparks-poetry/dustin-pearson-on-jillian-weises-beautiful-freak-show/?fbclid=IwAR3XOfI1uRFnLGspraxllbkn8RLxiTPkKFsnYpxvokxSyrJMS12lTVCsHuo) -- Poetry Daily
