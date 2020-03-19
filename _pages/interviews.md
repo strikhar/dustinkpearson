@@ -4,6 +4,10 @@ title: "Interviews"
 featured_image: '/images/dustin.jpg'
 ---
 
+
+FSU Digital Narratives 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8F61Lzo-JRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [An Interview With Dustin Pearson](https://www.poetrysocietysc.org/pearson-interview?fbclid=IwAR3peC8GyFr27Q5IJkaUp8_qnr04YJeN69zC6LAGy_9qe0IBJZvJ5brWIDQ)
 
 [Interview with Dustin Pearson - Winter 2019](https://www.crpress.org/interview-with-dustin-pearson-winter-2019/)
