@@ -4,6 +4,9 @@ title: "Interviews"
 featured_image: '/images/dustin.jpg'
 ---
 
+FSU Digital Narratives 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8F61Lzo-JRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Interview with Dustin Pearson - Winter 2019](https://www.crpress.org/interview-with-dustin-pearson-winter-2019/)
 
 [Wombwell Rainbow Interviews: Dustin Pearson](https://thewombwellrainbow.com/2019/01/18/wombwell-rainbow-interviews-dustin-pearson/)
