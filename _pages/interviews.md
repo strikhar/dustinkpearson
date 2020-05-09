@@ -4,6 +4,8 @@ title: "Interviews"
 featured_image: '/images/dustin.jpg'
 ---
 
+Dustin Pearson reads "Dedication"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uZNscvsJ7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 FSU Digital Narratives 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8F61Lzo-JRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
