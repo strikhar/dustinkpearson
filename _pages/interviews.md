@@ -3,6 +3,9 @@ layout: "page"
 title: "Interviews"
 featured_image: '/images/dustin.jpg'
 ---
+[Poets on Craft: Dustin Pearson and Shawnte Orion – Cultural Weekly](https://www.culturalweekly.com/poets-on-craft-dustin-pearson-and-shawnte-orion/)
+
+[Dustin Pearson draws from personal experiences, aesthetic factors as inspiration for his poetry](https://english.fsu.edu/article/dustin-pearson-draws-personal-experiences-aesthetic-factors-inspiration-his-poetry)
 
 Dustin Pearson reads "Dedication"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4uZNscvsJ7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,6 +34,8 @@ FSU Digital Narratives
 [Rachel Nix Interviews Dustin Pearson of Hayden’s Ferry Review](http://cahoodaloodaling.com/rachel-nix-interviews-dustin-pearson-of-haydens-ferry-review/)
 
 [Dustin Pearson Interviews Xu Xi About Her New Novel That Man In Our Lives](http://haydensferryreview.com/haydensferryreview/2016/9/19/an-interview-with-xu-xi)
+
+[Discomfort in Certainty: A Conversation with Alli Warren](https://medium.com/the-coil/alli-warren-interview-dustin-pearson-571a8ea6ff1c)
 
 [Dustin Pearson Talks Telepathologies With Poet Cortney Lamar Charleston](http://haydensferryreview.com/haydensferryreview/2017/4/18/dustin-pearson)
 
