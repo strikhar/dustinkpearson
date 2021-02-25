@@ -4,6 +4,14 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
+["A Difference", "A Scheme", "Souls Side by Side"](https://theboilerjournal.com/2021/02/13/dustin-pearson/) -- The Boiler
+
+["Hell Swallowed"](https://honeyliterary.com/2021/01/21/dustin-pearson/) -- Honey Literary
+
+["Lying Down"](https://www.thenation.com/article/culture/lying-down/) -- The Nation 
+
+["Fossil Fuel", "An Overgrowth Besides the Body"](https://theaccountmagazine.com/article/pearson-20) -- The Account
+
 ["My Brother Outside the House in Hell"](http://www.flypaperlit.com/poetry/my-brother-outside-the-house-in-hell-by-dustin-pearson) -- Flypaper Lit
 
 ["Space Exploration: Dustin Pearson"](http://haydensferryreview.com/blog/2020/2/9/space-exploration-dustin-pearson) -- Hayden's Ferry Review
