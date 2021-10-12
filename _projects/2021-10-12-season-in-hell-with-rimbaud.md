@@ -9,11 +9,13 @@ featured_image: '/images/a-season-in-hell-with-rimbaud.jpg'
 
 ## About the book
 
-<a href="https://www.crpress.org/shop/millennial-roost/" class="button button--large">Preorder here</a>
+**In pursuit of his brother, a man traverses the fantastical and grotesque landscape of Hell, pondering their now fractured relationship.**
 
-In pursuit of his brother, a man traverses the fantastical and grotesque landscape of Hell, pondering their now fractured relationship.
 The poems in Dustin Pearson’s A Season in Hell with Rimbaud form an allegorical travelogue that chronicles two brothers’ mutual descent into hell. When the older brother runs off by himself, the younger brother begins roaming Hell’s different landscapes in search of him. As he searches, the younger brother ruminates on their now fractured relationship: what brought them here? Can they find each other? Will their bonds ever be repaired?
+
 In the tradition of Virgil, Dante, Milton, Swift, Shelley, Joyce, Sarte, and especially Arthur Rimbaud, Pearson leads his speakers on a speculative, epistolary journey through the nether realm inspired by Christian beliefs and tradition. Drawing on the works of French Symbolists and the literary traditions of the American South, A Season in Hell with Rimbaud guides readers through an intimate rendering of one brother’s journey to find his lost and estranged brother, perhaps recovering a part of himself in the process.
+
+<a href="https://www.boaeditions.org/collections/poetry/products/a-season-in-hell-with-rimbaud" class="button button--large">Preorder here</a>
 
 ____________________________________________________________________________
 
