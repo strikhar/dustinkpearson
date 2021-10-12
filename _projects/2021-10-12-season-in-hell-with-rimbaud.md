@@ -1,11 +1,11 @@
 ---
-title: 'Millennial Roost'
+title: 'A Season in Hell with Rimbaud'
 date: 2019-10-17 00:00:00
-description: Dustin Pearson — A Season in Hell with Rimbaud.
+description: Dustin Pearson — A Season in Hell with Rimbaud
 featured_image: '/images/a-season-in-hell-with-rimbaud.jpg'
 ---
 
-![]({{site.baseurl}}/images/millennial-roost-small.jpg)
+![]({{site.baseurl}}/images/a-season-in-hell-with-rimbaud-small.jpg)
 
 ## About the book
 
