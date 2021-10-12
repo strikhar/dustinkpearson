@@ -31,7 +31,6 @@ ____________________________________________________________________________
 
 ---
 
-> *If, as Rimbaud tells us, believing you’re in Hell means you’re there, A Season in Hell with Rimbaud is Dustin Pearson’s Dantean descent. No Virgil, no Beatrice, but a brother—one who could ‘clap a boulder to dust,’ whose presence augured the world: ‘There wasn’t a time/ I didn’t have/ a brother. When/ my eyes opened,/ he was already here.’ It’s an epic story, braiding planes of mind and spirit, reaching across time and space to distant cosmologies, poetries, theologies. But it’s also decidedly granular—sheets pulled up over a headboard, geysers, a red balloon. Pearson has written an unforgettable story of two brothers and the myriad universes roiling between them: ‘If the only world is a Hell with my brother / in it, being with him will make a new one.*                                                           
--- Kaveh Akbar, author of Pilgrim Bell
+> *If, as Rimbaud tells us, believing you’re in Hell means you’re there, A Season in Hell with Rimbaud is Dustin Pearson’s Dantean descent. No Virgil, no Beatrice, but a brother—one who could ‘clap a boulder to dust,’ whose presence augured the world: ‘There wasn’t a time/ I didn’t have/ a brother. When/ my eyes opened,/ he was already here.’ It’s an epic story, braiding planes of mind and spirit, reaching across time and space to distant cosmologies, poetries, theologies. But it’s also decidedly granular—sheets pulled up over a headboard, geysers, a red balloon. Pearson has written an unforgettable story of two brothers and the myriad universes roiling between them: ‘If the only world is a Hell with my brother / in it, being with him will make a new one.*    
 
----
+-- Kaveh Akbar, author of Pilgrim Bell
