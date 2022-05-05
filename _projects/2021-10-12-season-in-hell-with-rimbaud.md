@@ -15,7 +15,7 @@ The poems in Dustin Pearson’s A Season in Hell with Rimbaud form an allegorica
 
 In the tradition of Virgil, Dante, Milton, Swift, Shelley, Joyce, Sarte, and especially Arthur Rimbaud, Pearson leads his speakers on a speculative, epistolary journey through the nether realm inspired by Christian beliefs and tradition. Drawing on the works of French Symbolists and the literary traditions of the American South, A Season in Hell with Rimbaud guides readers through an intimate rendering of one brother’s journey to find his lost and estranged brother, perhaps recovering a part of himself in the process.
 
-<a href="https://www.boaeditions.org/collections/poetry/products/a-season-in-hell-with-rimbaud" class="button button--large">Preorder here</a>
+<a href="https://www.boaeditions.org/collections/poetry/products/a-season-in-hell-with-rimbaud" class="button button--large">Order here</a>
 
 ____________________________________________________________________________
 
