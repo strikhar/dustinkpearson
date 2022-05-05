@@ -4,8 +4,10 @@ title: "Events"
 featured_image: '/images/dustin.jpg'
 ---
 
-6/17/20. Wild and Precious Life Series. Dan Beachy-Quirk, Rachel Eliza Griffiths, Dustin Pearson, & Meg Wade Save the link: https://us02web.zoom.us/j/84796858367
+Dustin Pearson: A Season in Hell with Rimbaud. Writers & Books. Rochester, NY. Online. 05-02-2022.
 
-The Burning Plain. Leila Chatti, Julia Leverone, Dustin Pearson, Jim Redmond. Golden Boy Coffee. Denton, TX. 02-29-2020. 
+Magic City Books Presents Dustin Pearson Book Launch Party. Magic City Books. Tulsa, OK. 04-27-2022. 
 
-Pegasus Reading Series. Leila Chatti, Keith Flynn, Chloe Honum, Dustin Pearson, Ji Yoon Lee & Kim Yi-Deum. Deep Vellum Books. Dallas, TX. 02-28-2020.
+Women & Children First with Jenny Qi, Ananda Lima & Dustin K. Pearson. Women & Children First. Chicago, IL. Online. 04-21-2022.
+
+Poets Do Dallas: Poet and educator Kim Nall (moderator), in conversation with Dustin Pearson, author of A Season in Hell with Rimbaud; Joaquín Zihuatanejo, author of Arsonist; and Darius Frasure, author of Of Stone and Rope. 2022 Dallas Literary Festival. Southern Methodist University. Dallas, TX. 03-19-2022.
