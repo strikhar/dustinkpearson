@@ -3,6 +3,7 @@ layout: "page"
 title: "Reviews"
 featured_image: '/images/dustin.jpg'
 ---
+[The Dark and Deeply Philosophical Poetry of "A Season in Hell with Rimbaud"](https://southernreviewofbooks.com/2022/06/10/a-season-in-hell-with-rimbaud-dustin-pearson-review/)
 
 [A Review of Dustin Pearson’s Millennial Roost](http://haydensferryreview.com/haydensferryreview/millennialroost)
 
