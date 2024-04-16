@@ -3,7 +3,7 @@ layout: "page"
 title: "Reviews"
 featured_image: '/images/dustin.jpg'
 ---
-[On Dustin Pearson's A Season in Hell with Rimbaud](h[ttps://southernreviewofbooks.com/2022/06/10/a-season-in-hell-with-rimbaud-dustin-pearson-review/](https://casit.bgsu.edu/marblog/on-dustin-pearsons-a-season-in-hell-with-rimbaud/)
+[On Dustin Pearson's A Season in Hell with Rimbaud](https://casit.bgsu.edu/marblog/on-dustin-pearsons-a-season-in-hell-with-rimbaud/)
 
 [Dustin Pearson, A Season in Hell with Rimbaud: Poems](https://robmclennan.blogspot.com/2022/07/dustin-pearson-season-in-hell-with.html)
 
