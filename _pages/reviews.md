@@ -3,6 +3,8 @@ layout: "page"
 title: "Reviews"
 featured_image: '/images/dustin.jpg'
 ---
+[9 Poetry Collections That Build Immersive Narrative Worlds]([https://casit.bgsu.edu/marblog/on-dustin-pearsons-a-season-in-hell-with-rimbaud/](https://electricliterature.com/9-poetry-collections-that-build-immersive-narrative-worlds/))
+
 [On Dustin Pearson's A Season in Hell with Rimbaud](https://casit.bgsu.edu/marblog/on-dustin-pearsons-a-season-in-hell-with-rimbaud/)
 
 [Dustin Pearson, A Season in Hell with Rimbaud: Poems](https://robmclennan.blogspot.com/2022/07/dustin-pearson-season-in-hell-with.html)
