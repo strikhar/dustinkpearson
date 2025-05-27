@@ -12,6 +12,8 @@ featured_image: '/images/dustin.jpg'
 
 ["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/) -- Zócalo Public Square
 
+["A Season in Hell with Rimbaud"](https://poems.com/poem/a-season-in-hell-with-rimbaud/) -- Poetry Daily
+
 ["Hell Swallowed"](https://honeyliterary.com/2021/01/21/dustin-pearson/) -- Honey Literary
 
 ["Lying Down"](https://www.thenation.com/article/culture/lying-down/) -- The Nation 
