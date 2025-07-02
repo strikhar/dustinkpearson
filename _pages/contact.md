@@ -8,13 +8,7 @@ featured_image: '/images/dustin.jpg'
 
 {% include contact-form.html %}
 
-   <script>
-      function onClick(e) {
-        e.preventDefault();
-        grecaptcha.ready(function() {
-          grecaptcha.execute('reCAPTCHA_site_key', {action: 'submit'}).then(function(token) {
-              // Add your logic to submit to your backend server here.
-          });
-        });
-      }
-  </script>
+  <head>
+  <script src="https://www.google.com/recaptcha/enterprise.js?render=6LefgXQrAAAAAA7ovWLDfdITCt_GWQ0CjlAhfOlD"></script>
+  <!-- Your code -->
+</head>
