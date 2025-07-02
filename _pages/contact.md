@@ -6,8 +6,4 @@ permalink: /contact
 featured_image: '/images/dustin.jpg'
 ---
 
-{% include contact-form.html %}
-
-6LefgXQrAAAAAA7ovWLDfdITCt_GWQ0CjlAhfOlD
-
-6LefgXQrAAAAAOVWyFxkJJvN1jOgIM2_d5vhUPZK
+ <script src="https://www.google.com/recaptcha/api.js"></script>
