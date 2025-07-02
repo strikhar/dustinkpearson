@@ -7,5 +7,3 @@ featured_image: '/images/dustin.jpg'
 ---
 
 {% include contact-form.html %}  
-
-<script src="https://www.google.com/recaptcha/api.js"></script>
