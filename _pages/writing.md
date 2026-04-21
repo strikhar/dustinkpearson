@@ -4,6 +4,8 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
+["Love and Malice,"](https://waxwingmag.org/items/issue34/19_Pearson-Love-and-Malice.php) [“A Scurry”](https://waxwingmag.org/items/issue34/18_Pearson-A-Scurry.php#top)) -- Waxwing
+
 ["A Wash after Entering"](https://sixthfinch.com/pearson1.html) -- Sixth Finch
 
 ["Autobiography," "The Left World"](http://www.verseville.org/poems-by-dustin-pearson.html) -- Verseville 
